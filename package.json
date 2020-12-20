@@ -1,0 +1,19 @@
+{
+  "name": "the_blogger-app-reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-sinha12/The_Blogger-App-ReactJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-sinha12/The_Blogger-App-ReactJs/issues"
+  },
+  "homepage": "https://github.com/s-sinha12/The_Blogger-App-ReactJs#readme"
+}
