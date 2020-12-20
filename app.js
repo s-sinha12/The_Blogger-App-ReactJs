@@ -54,15 +54,14 @@ export default function App() {
           </button>
         );
       })}
-      <hr></hr>
-      <ul>
-        <li>
-          <button className="recommend">{recommendation1}Bistro 37</button>
-        </li>
-        <li>
-          <button className="recommend">{recommendation2} The Big Chill</button>
-        </li>
-      </ul>
+      <hr className="line"></hr>
+
+      <li>
+        <button className="recommend">{recommendation1}</button>
+      </li>
+      <li>
+        <button className="recommend">{recommendation2}</button>
+      </li>
     </div>
   );
 }
